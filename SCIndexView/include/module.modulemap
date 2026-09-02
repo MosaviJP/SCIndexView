@@ -1,0 +1,6 @@
+module SCIndexView {
+    header "../SCIndexView.h"
+    header "../SCIndexViewConfiguration.h"
+    header "../UITableView+SCIndexView.h"
+    export *
+}
